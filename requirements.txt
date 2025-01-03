@@ -1,0 +1,4 @@
+opencv-python-headless
+fer
+tensorflow
+pyttsx3
